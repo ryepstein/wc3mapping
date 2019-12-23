@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[${1:private} function ${2:function_name} takes ${3:nothing} returns ${4:nothing}
+	${0:// body...}
+endfunction]]></content>
+    <tabTrigger>function</tabTrigger>
+    <scope>source.jass</scope>
+    <description>Function</description>
+</snippet>
